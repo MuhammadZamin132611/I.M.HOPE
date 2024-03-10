@@ -1,0 +1,12 @@
+.background-image{
+    /* background-image: url('assets/images/dashoboard-img.jpeg'); */
+    background-size: cover; /* or contain, depending on your preference */
+    background-position: center; /* or any other position */
+    /* Additional styles */
+    height: 100vh; 
+    
+}
+
+.font{
+    font-family: "Playfair Display", Sans-serif;
+}
